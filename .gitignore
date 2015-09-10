@@ -1,2 +1,7 @@
 _site/
+_drafts/
 .sass-cache/
+.idea/
+changelog.md
+History.markdown
+README.md
